@@ -13,9 +13,13 @@
     "extension":{
       "spx" : "audio"
     },
-    "licence_required":false,
     "using": ["solver_minimal_1", "solver_1"],
     "Format": [
         "Speex"
-    ]
+    ],
+    "patents": {
+        "status": "royalty-free",
+        "note": "Speex",
+        "checked": "2026-10-16"
+    }
 }
