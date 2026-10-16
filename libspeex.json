@@ -1,5 +1,6 @@
 {
     "name": "libspeex",
+    "version": "1.0.1",
     "description": "Speex decoder",
     "filters":["speexdec"],
     "help": "This filter decodes Speex speech streams using libspeex. It consumes the GF_CODECID_SPEEX pid produced by oggdmx from a .spx file.",
